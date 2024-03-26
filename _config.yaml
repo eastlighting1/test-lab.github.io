@@ -1,19 +1,15 @@
 # site properties and page defaults
-title: eastlighting1
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: IDA Lab.
+subtitle: Intelligent Data Analytics Laboratory
+description: We focuses on designing efficient algorithm or model to discover knowledge from big data.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@eastlighting1.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: eastlighting1
-  twitter: eastlighting1
-  youtube: eastlighting1
+  email: ida.gachon@gmail.com
+  
 
 ### jekyll settings
 
